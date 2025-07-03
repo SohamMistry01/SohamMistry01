@@ -29,3 +29,4 @@
 ![streamlit](https://img.shields.io/badge/streamlit-brown?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-brown?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/django-brown?style=for-the-badge&logo=django&logoColor=white)
+
