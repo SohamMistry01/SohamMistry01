@@ -1,14 +1,14 @@
-### 👋 Hi, I’m Soham Mistry from AISSMS IOIT currently pursuing BTech in Computer Engineering.
--  I’m interested in Machine Learning and Deep Learning.
+## 👋 Hi, I’m Soham Mistry 
+-  I’m interested in Artificial Intelligence and Machine Learning.
 -  I’m currently learning about LLMs, Generative AI, and Agentic AI.
 -  I’m looking to gain more practical experience in AIML through projects!
 
-#### Connect with me:
+### Connect with me:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sdmistry1001@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/soham-mistry)
 
 
-#### Languages:
+### Languages:
 [![Python](https://img.shields.io/badge/Python-darkblue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![mysql](https://img.shields.io/badge/mysql-darkblue?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![c++](https://img.shields.io/badge/C++-darkblue?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
@@ -17,7 +17,7 @@
 [![html5](https://img.shields.io/badge/html5-darkblue?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![css](https://img.shields.io/badge/css-darkblue?style=for-the-badge&logo=css&logoColor=white)](https://css-tricks.com/)
 
-#### Frameworks:
+### Frameworks:
 [![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge&logo=langchain&logoColor=white)](https://www.langchain.com/)
 [![LangGraph](https://img.shields.io/badge/LangGraph-black?style=for-the-badge&logo=langgraph&logoColor=white)](https://www.langchain.com/langgraph)
 [![gemini](https://img.shields.io/badge/Gemini-black?style=for-the-badge&logo=googlegemini&logoColor=white)](https://gemini.google.com/)
@@ -35,7 +35,7 @@
 [![Flask](https://img.shields.io/badge/flask-brown?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![Django](https://img.shields.io/badge/django-brown?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
 
-#### GitHub Stats:
+### About My GitHub:
 
 [![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SohamMistry01&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
