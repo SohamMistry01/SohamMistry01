@@ -37,7 +37,7 @@
 
 ### About My GitHub:
 
-[![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SohamMistry01&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SohamMistry01&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SohamMistry01)](https://github.com/ryo-ma/github-profile-trophy)
 
