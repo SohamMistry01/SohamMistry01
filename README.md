@@ -22,6 +22,7 @@
 [![gemini](https://img.shields.io/badge/Gemini-black?style=for-the-badge&logo=googlegemini&logoColor=white)](https://gemini.google.com/)
 [![ollama](https://img.shields.io/badge/ollama-black?style=for-the-badge&logo=ollama&logoColor=white)](https://ollama.com/)
 [![scikitlearn](https://img.shields.io/badge/ScikitLearn-blue?style=for-the-badge&logo=scikitlearn&logoColor=yellow)](https://scikit-learn.org/)
+[![fastapi](https://img.shields.io/badge/FastAPI-blue?style=for-the-badge&logo=fastapi&logoColor=yellow)](https://fastapi.tiangolo.com/)
 [![tensorflow](https://img.shields.io/badge/tensorflow-blue?style=for-the-badge&logo=tensorflow&logoColor=yellow)](https://www.tensorflow.org/)
 [![xgboost](https://img.shields.io/badge/xgboost-blue?style=for-the-badge&logo=xgboost&logoColor=yellow)](https://xgboost.ai/)
 [![mlflow](https://img.shields.io/badge/mlflow-blue?style=for-the-badge&logo=mlflow&logoColor=yellow)](http://mlflow.org/)
