@@ -18,6 +18,7 @@
 ### Frameworks:
 [![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge&logo=langchain&logoColor=white)](https://www.langchain.com/)
 [![LangGraph](https://img.shields.io/badge/LangGraph-black?style=for-the-badge&logo=langgraph&logoColor=white)](https://www.langchain.com/langgraph)
+[![LangGraph](https://img.shields.io/badge/CrewAI-black?style=for-the-badge&logo=crewai&logoColor=white)](https://www.crewai.com/)
 [![gemini](https://img.shields.io/badge/Gemini-black?style=for-the-badge&logo=googlegemini&logoColor=white)](https://gemini.google.com/)
 [![ollama](https://img.shields.io/badge/ollama-black?style=for-the-badge&logo=ollama&logoColor=white)](https://ollama.com/)
 [![scikitlearn](https://img.shields.io/badge/ScikitLearn-blue?style=for-the-badge&logo=scikitlearn&logoColor=yellow)](https://scikit-learn.org/)
