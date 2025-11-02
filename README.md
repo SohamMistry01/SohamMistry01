@@ -11,9 +11,7 @@
 ### Languages:
 [![Python](https://img.shields.io/badge/Python-darkblue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![mysql](https://img.shields.io/badge/mysql-darkblue?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![c++](https://img.shields.io/badge/C++-darkblue?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
 [![mongodb](https://img.shields.io/badge/mongodb-darkblue?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![JAVA](https://img.shields.io/badge/javascript-darkblue?style=for-the-badge&logo=javascript&logoColor=white)](https://www.java.com/)
 [![html5](https://img.shields.io/badge/html5-darkblue?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![css](https://img.shields.io/badge/css-darkblue?style=for-the-badge&logo=css&logoColor=white)](https://css-tricks.com/)
 
