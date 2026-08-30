@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/soham-mistry)
 
 
-### Languages:
+### Programming:
 [![Python](https://img.shields.io/badge/Python-darkblue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![mysql](https://img.shields.io/badge/mysql-darkblue?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![mongodb](https://img.shields.io/badge/mongodb-darkblue?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
