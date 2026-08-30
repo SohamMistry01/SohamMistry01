@@ -4,7 +4,7 @@
 -  I’m looking to gain more practical experience in AIML through projects!
 
 ### Connect with me:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sdmistry1001@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mistry.sohamm@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/soham-mistry)
 
 
@@ -34,14 +34,4 @@
 [![streamlit](https://img.shields.io/badge/streamlit-brown?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![Flask](https://img.shields.io/badge/flask-brown?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![Django](https://img.shields.io/badge/django-brown?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
-
-### About My GitHub:
-
-[![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SohamMistry01&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=SohamMistry01)](https://github.com/ryo-ma/github-profile-trophy)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SohamMistry01&layout=compact&theme=dark)
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SohamMistry01&show_icons=true&theme=dark)
 
