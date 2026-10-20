@@ -50,6 +50,7 @@
 <!-- Update the links above with your actual repo URLs -->
 
 ### 🏆 Achievements
+- Winner, Best Paper Award in AIML category at 2nd IEEE International Conference on Computing, Communication and Green Engineering (CCGE-2026).
 - Winner, Bit-By-ML Kaggle Competition (1st Edition), 2026
 - Winner, Inter-college State-Level Rapid Fire Quiz Competition, Alacrity 2025
 
