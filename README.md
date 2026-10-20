@@ -45,6 +45,7 @@
 
 ### 🚀 Featured Projects
 - **[JeevanYaan](https://github.com/SohamMistry01/JeevanYaan)** — Full-stack GenAI career & wellness platform with 8 AI modules: agentic LangGraph workflows (Search → Scrape → Summarize, Map-Reduce fan-out), RAG-based resume analysis (FAISS + HuggingFace embeddings), and a CatBoost mental-health classifier (96% F1-score).
+- **[PyChamp](https://github.com/SohamMistry01/PyChamp)** — An AI-native Data Structures & Algorithms learning platform and integrated browser Python IDE. Orchestrated a concurrent 3-agent LangGraph pipeline powered by Groq's high-speed LPU inference with a guided progressive unlock flow, paired with a sandboxed code execution engine and zero-token offline study notes library.
 - **[Health Insurance Claim Prediction](https://github.com/SohamMistry01/Health-Insurance-Claim-Prediction)** — End-to-end ML system (91% accuracy) with a Gemini-powered chatbot and interactive Plotly analytics, cutting manual assessment time by 40%.
 
 <!-- Update the links above with your actual repo URLs -->
